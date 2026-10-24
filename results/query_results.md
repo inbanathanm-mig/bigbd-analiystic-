@@ -47,3 +47,19 @@ Rows returned: 5
 | 1069 | 15 | Air Fryer | 15600 |
 | 1077 | 3 | Air Fryer | 15600 |
 | 1006 | 5 | Smart Watch | 13500 |
+
+
+## q04
+
+Rows returned: 8
+
+| customer_id | first_name | last_name | region | age |
+|---|---|---|---|---|
+| 24 | Reena | Kulkarni | West | 25 |
+| 8 | Divya | Gupta | West | 26 |
+| 17 | Farhan | Shah | North | 27 |
+| 1 | aarav | Sharma | North | 28 |
+| 16 | Nisha | Mishra | West | 36 |
+| 5 | Vikram | Singh | North | 37 |
+| 12 | Pooja | Menon | West | 39 |
+| 21 | Manoj | Desai | North | 40 |
