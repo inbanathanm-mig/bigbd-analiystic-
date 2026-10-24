@@ -23,3 +23,14 @@ First 5 rows:
 | 1004 | 19 | Cotton Kurta | 2800 |
 | 1010 | 19 | Wireless Earbuds | NULL |
 | 1033 | 18 | Denim Jacket | 2500 |
+
+
+## q02
+
+Rows returned: 3
+
+| order_id | customer_id | item | status |
+|---|---|---|---|
+| 1001 | 10 | Bluetooth Speaker | pending |
+| 1010 | 19 | Wireless Earbuds | pending |
+| 1064 | 20 | Bluetooth Speaker | pending |
