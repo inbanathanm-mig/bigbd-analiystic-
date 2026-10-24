@@ -126,7 +126,7 @@ Recommendation 1 (from docs/dashboard_spec.md): run an Electronics promotion in 
 
 **Unstated assumptions and the checks from my data:**
 
-| # | Unstated assumption | Check or figure that would confirm or weaken it |
+| # | Unstated assumption | Check or figure that would confirm or weaken it | 
 |---|---|---|
 | 1 | The gap comes from weak promotion, not from a smaller buying base | Count the Electronics buyers: North has 5 buying customers and 11 orders, South has 4 customers and 5 orders. The gap is mostly in the number of orders (11 against 5), so a promotion must raise order count and not only basket size. |
 | 2 | North's figure is typical, so it is a fair benchmark | One North customer (customer 1, aarav Sharma) accounts for 30200 of North's 73400 (about 41%). Without that customer, North's Electronics revenue would be much closer to South's. This weakens the benchmark. |
