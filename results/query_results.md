@@ -122,3 +122,34 @@ First 5 rows:
 | 1003 | 2026-09 | Lakshmi | Kapoor | South | Kavya Nair | Air Fryer | 2 | 10400 | disputed |
 | 1004 | 2026-09 | Gaurav | Yadav | East | Sanjay Roy | Cotton Kurta | 2 | 2800 | pending |
 | 1005 | 2026-09 | Tanvi | Thakur | South | Kavya Nair | Table Lamp | 1 | 1100 | completed |
+
+
+## q10
+
+Rows returned: 4
+
+| customer_id | first_name | last_name | region |
+|---|---|---|---|
+| 6 | Ananya | Reddy | South |
+| 11 | Imran | Joshi | East |
+| 17 | Farhan | Shah | North |
+| 24 | Reena | Kulkarni | West |
+
+## q11
+
+Rows returned: 12
+
+| region | order_month | number_of_orders | number_of_customers | total_revenue | average_revenue |
+|---|---|---|---|---|---|
+| East | 2026-09 | 2 | 2 | 6400 | 3200.0000 |
+| East | 2026-10 | 4 | 3 | 12200 | 3050.0000 |
+| East | 2026-11 | 6 | 5 | 50900 | 8483.3333 |
+| North | 2026-09 | 8 | 2 | 53500 | 6687.5000 |
+| North | 2026-10 | 6 | 4 | 41300 | 6883.3333 |
+| North | 2026-11 | 5 | 4 | 24500 | 4900.0000 |
+| South | 2026-09 | 5 | 3 | 19800 | 3960.0000 |
+| South | 2026-10 | 5 | 4 | 19000 | 3800.0000 |
+| South | 2026-11 | 7 | 4 | 43700 | 6242.8571 |
+| West | 2026-09 | 4 | 3 | 18600 | 4650.0000 |
+| West | 2026-10 | 5 | 4 | 20600 | 4120.0000 |
+| West | 2026-11 | 6 | 3 | 35700 | 5950.0000 |
