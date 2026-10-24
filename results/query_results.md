@@ -34,3 +34,16 @@ Rows returned: 3
 | 1001 | 10 | Bluetooth Speaker | pending |
 | 1010 | 19 | Wireless Earbuds | pending |
 | 1064 | 20 | Bluetooth Speaker | pending |
+
+
+## q03
+
+Rows returned: 5
+
+| order_id | customer_id | item | amount |
+|---|---|---|---|
+| 1061 | 16 | Air Fryer | 15600 |
+| 1065 | 22 | Air Fryer | 15600 |
+| 1069 | 15 | Air Fryer | 15600 |
+| 1077 | 3 | Air Fryer | 15600 |
+| 1006 | 5 | Smart Watch | 13500 |
