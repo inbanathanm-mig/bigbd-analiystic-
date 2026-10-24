@@ -72,3 +72,26 @@ Rows returned: 1
 | total_orders | total_revenue | avg_order_value | min_order_value | max_order_value |
 |---|---|---|---|---|
 | 63 | 346200 | 5495.2381 | 1100 | 15600 |
+
+
+## q06
+
+Rows returned: 3
+
+| status | number_of_orders | total_amount |
+|---|---|---|
+| completed | 63 | 346200 |
+| pending | 19 | 64900 |
+| disputed | 8 | 73200 |
+
+
+## q07
+
+Rows returned: 4
+
+| item | number_of_orders | revenue |
+|---|---|---|
+| Air Fryer | 9 | 104000 |
+| Smart Watch | 9 | 67500 |
+| Wireless Earbuds | 11 | 60800 |
+| Running Shoes | 8 | 43200 |
