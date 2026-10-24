@@ -132,7 +132,7 @@ Recommendation 1 (from docs/dashboard_spec.md): run an Electronics promotion in 
 | 2 | North's figure is typical, so it is a fair benchmark | One North customer (customer 1, aarav Sharma) accounts for 30200 of North's 73400 (about 41%). Without that customer, North's Electronics revenue would be much closer to South's. This weakens the benchmark. |
 | 3 | South's Electronics weakness is stable and not just a recent trend | South Electronics revenue was 15400 in 2026-09, 7700 in 2026-10 and 5600 in 2026-11. It is falling, which supports action, but it could also mean a stock, price or rep issue that a promotion will not fix. Check the pending and disputed orders in South (8 orders worth 33000) for signs of problems. |
 | 4 | A promotion causes more sales, so the past gap is evidence of effect | The data has no promotion flag and no control group, so it shows correlation only. A test is needed: run the offer in South for one cycle and compare it with East or West, which have similar Electronics revenue (21400 and 18800), using the same metric. |
-| 5 | The product mix is the same in both regions | North sells mainly Smart Watch (45000 from 10 units), while South's Smart Watch revenue is 13500 from 3 units. The gap is a Smart Watch gap, so the promotion should target Smart Watch and not all Electronics. |
+| 5 | The product mix is the same in both regions | North sells mainly Smart Watch (45000 from 10 units), while South's Smart Watch revenue is 13500 from 3 units. The gap is a Smart Watch gap, so the promotion should target Smart Watch and not all Electronics. | 
 
 ## 7. AI assistance disclosure
 
