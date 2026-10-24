@@ -95,3 +95,15 @@ Rows returned: 4
 | Smart Watch | 9 | 67500 |
 | Wireless Earbuds | 11 | 60800 |
 | Running Shoes | 8 | 43200 |
+
+
+## q08
+
+Rows returned: 4
+
+| region | number_of_customers | average_age | min_age | max_age |
+|---|---|---|---|---|
+| East | 6 | 34.0000 | 29 | 41 |
+| North | 6 | 37.5000 | 27 | 48 |
+| South | 6 | 36.3333 | 24 | 52 |
+| West | 6 | 28.5000 | 22 | 39 |
