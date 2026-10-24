@@ -63,3 +63,12 @@ Rows returned: 8
 | 5 | Vikram | Singh | North | 37 |
 | 12 | Pooja | Menon | West | 39 |
 | 21 | Manoj | Desai | North | 40 |
+
+
+## q05
+
+Rows returned: 1
+
+| total_orders | total_revenue | avg_order_value | min_order_value | max_order_value |
+|---|---|---|---|---|
+| 63 | 346200 | 5495.2381 | 1100 | 15600 |
