@@ -153,3 +153,40 @@ Rows returned: 12
 | West | 2026-09 | 4 | 3 | 18600 | 4650.0000 |
 | West | 2026-10 | 5 | 4 | 20600 | 4120.0000 |
 | West | 2026-11 | 6 | 3 | 35700 | 5950.0000 |
+
+
+## q12
+
+Rows returned: 9
+
+| item | total_revenue | contribution_tier |
+|---|---|---|
+| Air Fryer | 104000 | High |
+| Smart Watch | 67500 | High |
+| Wireless Earbuds | 60800 | High |
+| Running Shoes | 43200 | Medium |
+| Denim Jacket | 17500 | Medium |
+| Cotton Kurta | 16800 | Medium |
+| Bluetooth Speaker | 14000 | Low |
+| Bedsheet Set | 11400 | Low |
+| Table Lamp | 11000 | Low |
+
+
+## q13
+
+Rows returned: 12
+
+| rep_name | order_month | monthly_target | revenue | performance_tier |
+|---|---|---|---|---|
+| Arjun Mehta | 2026-09 | 40000 | 53500 | Above Target |
+| Arjun Mehta | 2026-10 | 40000 | 41300 | On Target |
+| Arjun Mehta | 2026-11 | 40000 | 24500 | Below Target |
+| Kavya Nair | 2026-09 | 20000 | 19800 | Below Target |
+| Kavya Nair | 2026-10 | 20000 | 19000 | Below Target |
+| Kavya Nair | 2026-11 | 20000 | 43700 | Above Target |
+| Neha Kulkarni | 2026-09 | 20000 | 18600 | Below Target |
+| Neha Kulkarni | 2026-10 | 20000 | 20600 | On Target |
+| Neha Kulkarni | 2026-11 | 20000 | 35700 | Above Target |
+| Sanjay Roy | 2026-09 | 12000 | 6400 | Below Target |
+| Sanjay Roy | 2026-10 | 12000 | 12200 | On Target |
+| Sanjay Roy | 2026-11 | 12000 | 50900 | Above Target |
