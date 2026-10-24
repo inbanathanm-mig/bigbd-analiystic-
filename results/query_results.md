@@ -107,3 +107,18 @@ Rows returned: 4
 | North | 6 | 37.5000 | 27 | 48 |
 | South | 6 | 36.3333 | 24 | 52 |
 | West | 6 | 28.5000 | 22 | 39 |
+
+
+## q09
+
+Rows returned: 90
+
+First 5 rows:
+
+| order_id | order_month | first_name | last_name | region | rep_name | item | quantity | amount | status |
+|---|---|---|---|---|---|---|---|---|---|
+| 1001 | 2026-09 | MEERA | Patil | South | Kavya Nair | Bluetooth Speaker | 2 | NULL | pending |
+| 1002 | 2026-09 | Nisha | Mishra | West | Neha Kulkarni | Smart Watch | 1 | 4500 | pending |
+| 1003 | 2026-09 | Lakshmi | Kapoor | South | Kavya Nair | Air Fryer | 2 | 10400 | disputed |
+| 1004 | 2026-09 | Gaurav | Yadav | East | Sanjay Roy | Cotton Kurta | 2 | 2800 | pending |
+| 1005 | 2026-09 | Tanvi | Thakur | South | Kavya Nair | Table Lamp | 1 | 1100 | completed |
